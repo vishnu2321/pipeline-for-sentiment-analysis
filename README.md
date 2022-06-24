@@ -63,3 +63,6 @@ Training dataset area under ROC: 0.934
 Testing dataset area under ROC: 0.738
 
 ---------------------------------------------------------------------------------------------------------------------------------
+
+Time taken by pandas --- 177.6mins
+Time taken by Pyspark APIs --- 109mins
